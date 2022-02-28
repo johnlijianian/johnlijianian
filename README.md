@@ -11,7 +11,7 @@ Talking about Personal Stuffs:
 - 📫 Please email via johnlijianian@gmail.com to reach me.
 - 📝 See my website: https://blog.csdn.net/weixin_42142630 to get more info.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnlijianian&show_icons=true&theme=&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Nianniannian's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnlijianian&show_icons=true&theme=&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnlijianian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
